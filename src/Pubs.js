@@ -28,8 +28,7 @@ import {List, Icon, Header, Divider} from 'semantic-ui-react';
 			<List.Item> <Icon name='edit' /> Budnik,V., J.Mpodozis, F.Varela, and H.Maturana (1984) Regional specialization of the quail retina: Ganglion cell density and oil droplet distribution Neuroscien. Lett 51:145-150.</List.Item>
 			<List.Item> <Icon name='edit' /> Guiloff,G., H.Maturana, and F.Varela (1987) The cytoarquitecture of the avian ventral lateral geniculate, J.Comp.Neurol 264: 509-526 </List.Item>
 			<List.Item> <Icon name='edit' /> Maldonado,P., H.Maturana, and F.Varela, (1988) Frontal and lateral visual fields in bird's vision. Brain Beh.Evol 32: 57-63 </List.Item>
-			<List.Item> <Icon name='edit' /> Gho,M. and F.Varela (1989) Quantitative assesment of the dependency of the visual perceptual frame on the cortical alpha rhythm J.Physiologie (Paris) 83:95-101</List.Item>
-			[Agregando, clasificando y ordenando bibliografía para esta categoría. Please wait...]
+			<List.Item> <Icon name='edit' /> Gho,M. and F.Varela (1989) Quantitative assesment of the dependency of the visual perceptual frame on the cortical alpha rhythm J.Physiologie (Paris) 83:95-101</List.Item>			
 		</List>
 	</>
    )
@@ -41,8 +40,7 @@ import {List, Icon, Header, Divider} from 'semantic-ui-react';
 			<List>
 				<List.Item> <Icon name='edit' /> Maturana, H. & Varela, F. (1973/1995). De Máquinas y Seres Vivos: Una Teoría sobre la Organización Biológica. Santiago: Universitaria (121 pp.) </List.Item>
 				<List.Item> <Icon name='edit' /> Maturana, H. & Varela, F. (1980). Autopoiesis and Cognition: The Realization of the Living. Boston: D.Reidel (141 pp.+ xxv) </List.Item>
-				<List.Item> <Icon name='edit' /> Varela, F. (1979). Principles of Biological Autonomy. New York: Elsevier/North-Holland. (306 pp.) </List.Item>
-				[Agregando, clasificando y ordenando bibliografía para esta categoría. Please wait...]
+				<List.Item> <Icon name='edit' /> Varela, F. (1979). Principles of Biological Autonomy. New York: Elsevier/North-Holland. (306 pp.) </List.Item>				
 			</List>
 		</>
    )
@@ -92,8 +90,7 @@ import {List, Icon, Header, Divider} from 'semantic-ui-react';
 			<List.Item> <Icon name='edit' /> Varela,F. and W.Singer (1987) Neuronal dynamics in the visual cortico-thalamic pathway as revealed through binocular rivalry Exp.Brain Res. 66:10-20.</List.Item>
 			<List.Item> <Icon name='edit' /> Rössler,J. and F.Varela (1987) Exact results for the average dynamics and correlation of non-linear neural networks Biol.Cybernetics 57:249-256.</List.Item>
 			<List.Item> <Icon name='edit' /> Varela,F. (1987) The science and technology of cognition: Emergent directions, in: J.L.Roos (Ed.), Economics and Artificial Intelligence , 1st IFAC Intl.Symposium,Pergamon Press, Oxford/New York , pp.1-9.</List.Item>
-			<List.Item> <Icon name='edit' /> Varela,F. (1988). Erkentniss und leben in: Lebende Systeme, F.Simmons (Ed.), Springer Verlag, New York-Heidelberg, pp.34-47, pp.95-108, pp.108-120.</List.Item>
-			[Agregando, clasificando y ordenando bibliografía para esta categoría. Please wait...]
+			<List.Item> <Icon name='edit' /> Varela,F. (1988). Erkentniss und leben in: Lebende Systeme, F.Simmons (Ed.), Springer Verlag, New York-Heidelberg, pp.34-47, pp.95-108, pp.108-120.</List.Item>			
 	  </List>
   </>
   )
@@ -114,8 +111,7 @@ import {List, Icon, Header, Divider} from 'semantic-ui-react';
 			<List.Item> <Icon name='edit' /> Varela,F. and A.Cohen (1989). Le corps evocateur: une relecture de l'immunité, Nouvelle Revue de Psychanalyse Nº40, Automne 1989, pp.193-213.</List.Item>
 			<List.Item> <Icon name='edit' /> Lundqvist,I., A. Coutinho, F.Varela, and D.Holmberg (1989) Evidence for the functional dynamics in an antibody network Proc.Natl.Acad.Sci (USA) 86 :5074-5078</List.Item>
 			<List.Item> <Icon name='edit' /> Varela,F. and A. Coutinho, (1989). Immune Networks: Getting on to the real thing, Res.Immunol. 140:837-845</List.Item>
-			<List.Item> <Icon name='edit' /> Luisi,L. and F.Varela (1989) Self-replicating micelles as a chemical version of a minimal autopoietic system , Origins of Life, 19:633-643.</List.Item>
-			[Agregando, clasificando y ordenando bibliografía para esta categoría. Please wait...]
+			<List.Item> <Icon name='edit' /> Luisi,L. and F.Varela (1989) Self-replicating micelles as a chemical version of a minimal autopoietic system , Origins of Life, 19:633-643.</List.Item>			
 	  </List>
   </>
   )
@@ -139,8 +135,7 @@ import {List, Icon, Header, Divider} from 'semantic-ui-react';
 			<List.Item> <Icon name='edit' /> Varela, F.(1987). Les racines biologiques de la individualité in: Sur L'Individu, Colloque de Royaumont, Eds. du Seuil, pp. 88-95.</List.Item>
 			<List.Item> <Icon name='edit' /> Varela, F.(1987). Sobre el Individuo, Editorial Paidós, Barcelona, pp.111-119.</List.Item>
 			<List.Item> <Icon name='edit' /> Varela,F. (1989). Über die Natur und die Natur des Erkentniss, in: H.-P.Dürr and W.Zimmerli (Eds.), Geist und Natur, Scherz Verlag, Munich, pp. 90-110. also in: M.Peschl (Ed.), Formen des Konstruktivismus in Diskusion, WUV Universitäts Verlag, Wien, pp.88-108.</List.Item>
-			<List.Item> <Icon name='edit' /> Varela,F. & Hayward,J.(2000). Un Puente para Dos Miradas (Conversaciones con el Dalai Lama sobre las Ciencias de la Mente). Santiago: Dolmen </List.Item>
-			[Agregando, clasificando y ordenando bibliografía para esta categoría. Please wait...]
+			<List.Item> <Icon name='edit' /> Varela,F. & Hayward,J.(2000). Un Puente para Dos Miradas (Conversaciones con el Dalai Lama sobre las Ciencias de la Mente). Santiago: Dolmen </List.Item>			
 	   </List>
    </>
    )
