@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e280eb44ee87de73d939f5da167eee0c",
+    "revision": "948c749e6981937c7554e0ee9f0947b9",
     "url": "/tributo-varela/index.html"
   },
   {
-    "revision": "5715ba0cd635dd8ebc3c",
+    "revision": "b9fddcddc9b3f6f16fe2",
     "url": "/tributo-varela/static/css/2.39317bbc.chunk.css"
   },
   {
-    "revision": "5715ba0cd635dd8ebc3c",
-    "url": "/tributo-varela/static/js/2.0b35ad17.chunk.js"
+    "revision": "b9fddcddc9b3f6f16fe2",
+    "url": "/tributo-varela/static/js/2.32f62577.chunk.js"
   },
   {
     "revision": "3d9880ee0da2a100dc4a6223e0aed39a",
-    "url": "/tributo-varela/static/js/2.0b35ad17.chunk.js.LICENSE"
+    "url": "/tributo-varela/static/js/2.32f62577.chunk.js.LICENSE"
   },
   {
-    "revision": "d20abf96487cfa35a053",
-    "url": "/tributo-varela/static/js/main.dd8c3e6c.chunk.js"
+    "revision": "b39632413293811c88b5",
+    "url": "/tributo-varela/static/js/main.cd46ee99.chunk.js"
   },
   {
-    "revision": "1fa92bbf4e24781a039a",
-    "url": "/tributo-varela/static/js/runtime-main.143e2475.js"
+    "revision": "386925d600cbdaeef1ae",
+    "url": "/tributo-varela/static/js/runtime-main.662ffd0e.js"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",

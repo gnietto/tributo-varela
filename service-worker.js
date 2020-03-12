@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tributo-varela/precache-manifest.1e4254b0703ab13c1e81b65e7ec28ff2.js"
+  "/tributo-varela/precache-manifest.099f83c3950cffc05d5dd7c0cd93f006.js"
 );
 
 self.addEventListener('message', (event) => {
